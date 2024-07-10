@@ -1,0 +1,27 @@
+         ⛃ ⛂ ⛁ ⛀                                
+         Chips                                  
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
++xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx+
+|                                              |
+|  +-----+  +-----+  +-----+  +-----+  +-----+ |
+|  |3    |  |10   |  |A    |  |J    |  |7    | |
+|  |     |  |     |  |     |  |     |  |     | |
+|  |  ♠  |  |  ♣  |  |  ♠  |  |  ♡  |  |  ♢  | |
+|  |     |  |     |  |     |  |     |  |     | |
+|  |    3|  |   10|  |    A|  |    J|  |    7| |
+|  +-----+  +-----+  +-----+  +-----+  +-----+ |
+|  3        10       A        J        7       |
+|  Spade    Club     Spade    Heart    Diamond |
+|                                              |
++xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx+

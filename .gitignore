@@ -1,0 +1,6 @@
+# vscode has so much bs files omg
+.vscode
+.history
+__pycache__
+*.pyc
+.env
